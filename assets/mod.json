@@ -1,0 +1,10 @@
+{
+    "name": "Artillery",
+    "displayName": "[red]Artillery",
+    "author": "SAMURAI",
+    "description": "Этот мод добавляет артиллерию в Mindustry! Несколько новых, уникальных артиллерийских турелей.",
+    "version": "2.0",
+   
+    "minGameVersion": "136",
+    "dependencies": []
+   }
