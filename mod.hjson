@@ -1,0 +1,7 @@
+name: Artillery
+displayName: "[red]Artillery"
+author: "[#990]SA[#cc0]MU[#ff0]RA[#ff0]I"
+description: "Этот мод добавляет [red]артиллерию в Mindustry! Несколько новых, уникальных артиллерийских турелей."
+version: "2.0"
+minGameVersion: "136"
+hidden: true,
